@@ -1,4 +1,4 @@
-mport de.bezier.guido.*;
+import de.bezier.guido.*;
 //Declare and initialize NUM_ROWS and NUM_COLS = 20
 public final static int NUM_ROWS = 20;
 public final static int NUM_COLS = 20;
